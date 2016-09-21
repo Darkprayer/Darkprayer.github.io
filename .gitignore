@@ -1,0 +1,9 @@
+/node_modules/
+/public/
+/.deploy*/
+*.swp
+*.log
+.DS_Store
+db.json
+debug.log
+Thumbs.db
